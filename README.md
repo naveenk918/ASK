@@ -166,5 +166,3 @@ plt.show()
 
 # Results
  The experiment of modulation and demodulation of ASK and FSK was successfully executed.
-```
-# Hardware experiment output waveform.
